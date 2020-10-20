@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\C7E3\bin\Debug\C7E3.exe.config
+C:\Users\jacob\source\repos\C7E3\bin\Debug\C7E3.exe
+C:\Users\jacob\source\repos\C7E3\bin\Debug\C7E3.pdb
+C:\Users\jacob\source\repos\C7E3\obj\Debug\C7E3.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\C7E3\obj\Debug\C7E3.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\C7E3\obj\Debug\C7E3.exe
+C:\Users\jacob\source\repos\C7E3\obj\Debug\C7E3.pdb
+C:\Users\jacob\Source\Repos\Week8\C7E3\bin\Debug\C7E3.exe.config
+C:\Users\jacob\Source\Repos\Week8\C7E3\bin\Debug\C7E3.exe
+C:\Users\jacob\Source\Repos\Week8\C7E3\bin\Debug\C7E3.pdb
+C:\Users\jacob\Source\Repos\Week8\C7E3\obj\Debug\C7E3.csprojAssemblyReference.cache
+C:\Users\jacob\Source\Repos\Week8\C7E3\obj\Debug\C7E3.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Source\Repos\Week8\C7E3\obj\Debug\C7E3.exe
+C:\Users\jacob\Source\Repos\Week8\C7E3\obj\Debug\C7E3.pdb

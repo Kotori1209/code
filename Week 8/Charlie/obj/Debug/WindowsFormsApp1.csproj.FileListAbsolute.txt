@@ -1,0 +1,9 @@
+C:\chuck\development\lcc programming class\Week8\charlie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\chuck\development\lcc programming class\Week8\charlie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\chuck\development\lcc programming class\Week8\charlie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\chuck\development\lcc programming class\Week8\charlie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\chuck\development\lcc programming class\Week8\charlie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\chuck\development\lcc programming class\Week8\charlie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\chuck\development\lcc programming class\Week8\charlie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\chuck\development\lcc programming class\Week8\charlie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\chuck\development\lcc programming class\Week8\charlie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
