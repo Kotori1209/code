@@ -40,7 +40,7 @@ namespace ConsoleApp20
 
                 // Output.
                 WriteLine("Customer Code : {0}{1}{2}{3}{4}", CustomerC.CustomerLastName, 
-                    CustomerC.CustomerBirthYear % 100, CustomerC.CusomterFullName.Length.ToString(), 
+                    CustomerC.CustomerBirthYear % 100, CustomerC.CustomerFullName.Length.ToString(), 
                     CustomerC.CustomerPurchaseMonth, Zip % 100);
 
                 // Print a new line.

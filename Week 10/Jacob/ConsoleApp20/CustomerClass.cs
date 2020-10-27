@@ -13,7 +13,7 @@ namespace ConsoleApp20
         private string cPurchaseMonth;
 
         // Property pFullName().
-        public string CusomterFullName
+        public string CustomerFullName
         {
 
             // Getter.
