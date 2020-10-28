@@ -27,6 +27,7 @@ namespace ConsoleApp20
             // Variables
             string RunVal;
             char RunAgain;
+            
 
             // Do While loop.
             do
@@ -65,6 +66,8 @@ namespace ConsoleApp20
         public static void GetDetails(out string FullName, out string DOB, out int MonthNumber, out int Zip)
         {
 
+            DateTime DOBDATE = DateTime.Now;
+
             // Display message.
             WriteLine("Customer Application");
 
@@ -81,8 +84,11 @@ namespace ConsoleApp20
             Write("Birthdate (mm/dd/yyyy): ");
 
             // Get the input.
-            DOB = ReadLine();
-
+            while (!DateTime.TryParse(ReadLine(), out DOBDATE) == true) {
+                WriteLine("Error: Could not parse date!\nPlease re-enter date (mm/dd/yyyy): ");
+            }
+            DOB = DOBDATE.ToShortDateString();
+            
             // Prompt the user for Month subscription.
             Write("Subscription purchased (Month Number): ");
 

@@ -12,7 +12,7 @@ namespace ConsoleApp20
         private int cBirthYear;
         private string cPurchaseMonth;
 
-        // Property pFullName().
+        // Property FullName().
         public string CustomerFullName
         {
 
@@ -33,7 +33,7 @@ namespace ConsoleApp20
             }
         }
 
-        // Property pBirthdate().
+        // Property Birthdate().
         public string CustomerBirthdate
         {
 
@@ -75,7 +75,7 @@ namespace ConsoleApp20
             }
         }
 
-        // Read only property pLastName().
+        // Read only property LastName().
         public string CustomerLastName
         {
 
@@ -91,7 +91,7 @@ namespace ConsoleApp20
             }
         }
 
-        // Read only property pBirthYear().
+        // Read only property BirthYear().
         public int CustomerBirthYear
         {
 
@@ -107,7 +107,7 @@ namespace ConsoleApp20
             }
         }
 
-        // Read only property pPurchaseMonth().
+        // Read only property PurchaseMonth().
         public string CustomerPurchaseMonth
         {
 
