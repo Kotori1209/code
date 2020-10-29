@@ -27,7 +27,8 @@ namespace ConsoleApp20
             // Variables
             string RunVal;
             char RunAgain;
-            
+            // Added this to get substring of year (specifically to fix 00 years)
+            string BirthYearSub;
 
             // Do While loop.
             do
@@ -39,9 +40,12 @@ namespace ConsoleApp20
                 // Creating new instance of CustomerClass.
                 CustomerClass CustomerC = new CustomerClass(FullName, DOB, MonthNumber);
 
+                BirthYearSub = CustomerC.CustomerBirthYear.ToString();
+
                 // Output.
                 WriteLine("Customer Code : {0}{1}{2}{3}{4}", CustomerC.CustomerLastName, 
-                    CustomerC.CustomerBirthYear % 100, CustomerC.CustomerFullName.Length.ToString(), 
+                    BirthYearSub.Substring(BirthYearSub.Length - 2), // Using BirthYearSub to get substring minus 2 to get last two digits.
+                    CustomerC.CustomerFullName.Length.ToString(), 
                     CustomerC.CustomerPurchaseMonth, Zip % 100);
 
                 // Print a new line.
